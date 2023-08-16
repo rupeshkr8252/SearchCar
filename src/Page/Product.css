@@ -1,0 +1,39 @@
+.product-section{
+    margin:1% 5%;
+}
+
+.product-title{
+    text-align: center;
+}
+
+.product-cnt button {
+    padding: 10px 8px;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    background: #fff;
+    color: #000;
+}
+
+.product-cnt p{
+    margin-bottom: 0.8rem;
+}
+
+.search input{
+    padding: 10px;
+    border-radius: 30px;
+    width: 100%;
+    background: none;
+    border: 1px solid #ccc;
+}
+
+.search{
+    margin-bottom: 1rem;
+}
+
+.product-cnt{
+    border: 1px solid rgb(173, 3, 3);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 2rem;
+    text-align: center;
+}
