@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/unstop_project/static/css/main.f3b7ef84.css",
-    "main.js": "/unstop_project/static/js/main.66fa4d62.js",
-    "static/media/BMW.png": "/unstop_project/static/media/BMW.546ea0993f6af023ac68.png",
-    "static/media/Ferrari.webp": "/unstop_project/static/media/Ferrari.810f3a4c98d40146c43a.webp",
-    "static/media/Buggati.jpeg": "/unstop_project/static/media/Buggati.324f9f02b4429de22d17.jpeg",
-    "static/media/Honda.jpg": "/unstop_project/static/media/Honda.ffdaf2ab56c56ba26d49.jpg",
-    "static/media/Innova.jpg": "/unstop_project/static/media/Innova.3cb4aa7a8b54ca9d3f4c.jpg",
-    "static/media/XUV500.jpg": "/unstop_project/static/media/XUV500.3cb546990551ae5f9223.jpg",
-    "static/media/Mercedes.jpg": "/unstop_project/static/media/Mercedes.e975136065bed8a5c909.jpg",
-    "static/media/Thar.jpg": "/unstop_project/static/media/Thar.82cdcbfe27adc31c3d90.jpg",
-    "static/media/Lamorghini.jpg": "/unstop_project/static/media/Lamorghini.7a5540ab03054df721a6.jpg",
-    "static/media/Nano.jpg": "/unstop_project/static/media/Nano.750a1bef99b5b04c9575.jpg",
-    "static/media/Nexon.jpg": "/unstop_project/static/media/Nexon.023c4d1e94703d642a79.jpg",
-    "static/media/Breeza.jpg": "/unstop_project/static/media/Breeza.b6365f788eb732824f34.jpg",
-    "static/media/audi.jpg": "/unstop_project/static/media/audi.91b4f1e86cf26a10fa8b.jpg",
-    "static/media/Swift.jpg": "/unstop_project/static/media/Swift.942f72364eb26108d5ab.jpg",
-    "index.html": "/unstop_project/index.html",
-    "main.f3b7ef84.css.map": "/unstop_project/static/css/main.f3b7ef84.css.map",
-    "main.66fa4d62.js.map": "/unstop_project/static/js/main.66fa4d62.js.map"
+    "main.css": "/SearchCar/static/css/main.f3b7ef84.css",
+    "main.js": "/SearchCar/static/js/main.56bfdfe9.js",
+    "static/media/BMW.png": "/SearchCar/static/media/BMW.546ea0993f6af023ac68.png",
+    "static/media/Ferrari.webp": "/SearchCar/static/media/Ferrari.810f3a4c98d40146c43a.webp",
+    "static/media/Buggati.jpeg": "/SearchCar/static/media/Buggati.324f9f02b4429de22d17.jpeg",
+    "static/media/Honda.jpg": "/SearchCar/static/media/Honda.ffdaf2ab56c56ba26d49.jpg",
+    "static/media/Innova.jpg": "/SearchCar/static/media/Innova.3cb4aa7a8b54ca9d3f4c.jpg",
+    "static/media/XUV500.jpg": "/SearchCar/static/media/XUV500.3cb546990551ae5f9223.jpg",
+    "static/media/Mercedes.jpg": "/SearchCar/static/media/Mercedes.e975136065bed8a5c909.jpg",
+    "static/media/Thar.jpg": "/SearchCar/static/media/Thar.82cdcbfe27adc31c3d90.jpg",
+    "static/media/Lamorghini.jpg": "/SearchCar/static/media/Lamorghini.7a5540ab03054df721a6.jpg",
+    "static/media/Nano.jpg": "/SearchCar/static/media/Nano.750a1bef99b5b04c9575.jpg",
+    "static/media/Nexon.jpg": "/SearchCar/static/media/Nexon.023c4d1e94703d642a79.jpg",
+    "static/media/Breeza.jpg": "/SearchCar/static/media/Breeza.b6365f788eb732824f34.jpg",
+    "static/media/audi.jpg": "/SearchCar/static/media/audi.91b4f1e86cf26a10fa8b.jpg",
+    "static/media/Swift.jpg": "/SearchCar/static/media/Swift.942f72364eb26108d5ab.jpg",
+    "index.html": "/SearchCar/index.html",
+    "main.f3b7ef84.css.map": "/SearchCar/static/css/main.f3b7ef84.css.map",
+    "main.56bfdfe9.js.map": "/SearchCar/static/js/main.56bfdfe9.js.map"
   },
   "entrypoints": [
     "static/css/main.f3b7ef84.css",
-    "static/js/main.66fa4d62.js"
+    "static/js/main.56bfdfe9.js"
   ]
 }
